@@ -1,4 +1,5 @@
-
+import java.lang.Scanner;
+        
 package personList;
 
 /**
@@ -6,7 +7,7 @@ package personList;
  *
  * @author Gabriel
  */
-public class PersonList {
+public class Personlist {
 
 /**
 * @param args the command line arguments
